@@ -21,7 +21,7 @@ This repository contains the proposed ResAttCauRec model and ablation study. The
 ## Citation
 If you find the code helpful in your research or work, please cite the following paper:
 ```
-@article{li2025qinsight,
+@article{
   title={Incorporating Causality into Deep Learning Architectures to Improve Flash Drought Forecasts},
   author={Tang, Sijie and Wang, Shuo and Jiang, Jiping and Zheng, Yi},
   journal={Water Resources Research},
