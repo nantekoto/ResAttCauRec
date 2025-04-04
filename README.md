@@ -8,6 +8,7 @@ Incorporating Causality into Deep Learning Architectures to Improve Flash Drough
 Sijie Tang, Shuo Wang, Jiping Jiang, and Yi Zheng.
 
 *Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University*
+
 *School of Environmental Science and Engineering, Southern University of Science and Technology*
 
 </div>
