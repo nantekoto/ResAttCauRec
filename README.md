@@ -17,6 +17,9 @@ Sijie Tang, Shuo Wang, Jiping Jiang, and Yi Zheng.
 We present a new approach to integrate causality into LSTM model by pretraining hidden states, to forecast soil moisture and flash drought.
 This repository contains the proposed ResAttCauRec model and ablation study. The manuscript is currently under review by *Water Resources Research*.
 
+my_model contains the model classes used in the paper. 
+my_data_preprocess provide necessary function to deal with FLUXNET and ERA5.
+The jupynotebook provides a illustration for training models.
 
 ## Citation
 If you find the code helpful in your research or work, please cite the following paper:
